@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ollie Gardner",
+      "authorEmail": "ol.grdnr@gmail.com",
+      "authorUrl": "grdnr.uk"
+    }
+  }
+}
